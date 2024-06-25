@@ -1,1 +1,2 @@
-# En esta sección se encuentran algnos códigos en R
+# R
+En esta sección se encuentran algnos códigos en R
